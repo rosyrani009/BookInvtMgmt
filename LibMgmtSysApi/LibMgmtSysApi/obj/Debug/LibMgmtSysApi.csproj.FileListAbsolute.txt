@@ -1,0 +1,5 @@
+F:\nidhi\Mgnt_Brns Project\.Net internshipProjects\CoderTalent Proj\LibMgmtSysApi\LibMgmtSysApi\bin\LibMgmtSysApi.dll
+F:\nidhi\Mgnt_Brns Project\.Net internshipProjects\CoderTalent Proj\LibMgmtSysApi\LibMgmtSysApi\bin\LibMgmtSysApi.pdb
+F:\nidhi\Mgnt_Brns Project\.Net internshipProjects\CoderTalent Proj\LibMgmtSysApi\LibMgmtSysApi\obj\Debug\ResolveAssemblyReference.cache
+F:\nidhi\Mgnt_Brns Project\.Net internshipProjects\CoderTalent Proj\LibMgmtSysApi\LibMgmtSysApi\obj\Debug\LibMgmtSysApi.dll
+F:\nidhi\Mgnt_Brns Project\.Net internshipProjects\CoderTalent Proj\LibMgmtSysApi\LibMgmtSysApi\obj\Debug\LibMgmtSysApi.pdb

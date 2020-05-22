@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="BIM.master.cs" Inherits="LibMgmtSysApi.BIM" CodeFile="BIM.master.cs" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+
+    <title>Book Inventory Management</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+ 
+<body style="background-color:#FFE4E1">
+    <form id="form1" runat="server">
+    <div style="text-align: center">
+        <br />
+        <asp:Label ID="Label1" runat="server" Font-Bold="True" Font-Size="50px" 
+            Text="Book Inventory Management"></asp:Label>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+      
+     <asp:Label ID="lblSelect" runat="server" Text="Select Operation :- "></asp:Label>
+     <asp:DropDownList ID="ddlOprtn" runat="server" AutoPostBack="True">
+         <asp:ListItem>Select</asp:ListItem>
+         <asp:ListItem>Add book</asp:ListItem>
+         <asp:ListItem>Edit and Delete book details</asp:ListItem>
+         <asp:ListItem>Search book</asp:ListItem>
+        </asp:DropDownList>
+        <br />
+      
+       <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" >
+       
+        </asp:ContentPlaceHolder>
+        
+    </div>
+    </form>
+</body>
+</html>
